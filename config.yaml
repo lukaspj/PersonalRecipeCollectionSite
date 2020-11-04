@@ -1,6 +1,6 @@
 baseURL: "https://mad.lukasj.org"
 languageCode: "da-dk"
-title: "Livvy - Mad"
+title: "LukasJ Opskrifter"
 theme: "gochowdown"
 
 menu:
