@@ -1,7 +1,6 @@
 ---
 layout: recipe
-date: 2020-11-02T09:47:08+01:00
-draft: true    
+date: 2020-11-02T09:47:08+01:00    
 title:  "Æbleskiver" # The title of your awesome recipe
 image: awesome-recipe-image.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
