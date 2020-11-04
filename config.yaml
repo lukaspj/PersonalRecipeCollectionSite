@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://mad.lukasj.org/"
 languageCode: "da-dk"
 title: "Livvy - Mad"
 theme: "gochowdown"
