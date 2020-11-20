@@ -26,8 +26,6 @@ jobs:
     strategy:
       matrix:
         include:
-          - branch: env/dev
-            slug: env-dev
           - branch: master
             slug: master
 
